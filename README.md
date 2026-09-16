@@ -21,9 +21,6 @@
 | [OmniPass](https://github.com/mrSaT13/OmniPass) | Offline loyalty-card wallet for Android |
 | [PawCare](https://github.com/mrSaT13/PawCare) | Smart dog-health diary (PyQt5) |
 
-## 📫 Contact
-
-Open to work — reach me via GitHub or HH.ru.
 
 ---
 
